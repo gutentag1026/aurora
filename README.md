@@ -1,97 +1,121 @@
 ## Starlight
+```
+Here is an easier version for Starlight, for all those people who hate bar chords.
+
+
 [Intro]
-B (on Bass)
-B C#m G#m E
-B C#m G#m E
+
+G on Bass
+
 
 [Verse]
-B
+
+G
 Far Away
-C#m                    G#m
+Am                     Em
 This ship is taking me far away
-E
+C
 Far away from the
-B
+G
 Memories
-C#m                   G#m               E
+Am                    Em               C
 Of all the people who care if I live or die
-B
+
+G
 Starlight
-C#m                   G#m
+Am                    Em
 I will be chasing the starlight
-E
+C
 Until the end of my
-B
+G
 life
-C#m                  G#m          E
+Am                   Em           C
 I don't know if it's worth it any more
 
-[Pre-Chorus]
-B    C#m    G#m     E
-Hold you in my arms, I just wanted to
-B    C#m    G#m     E
-Hold you in my arms
-
-[Verse]
-B
-My life
-C#m           G#m
-You electrify my life
-E                    B
-Let's conspire to ig-nite
-C#m                      G#m            E
-All the souls that would die just to be alive
 
 [Chorus]
-C#m  F#            D#        G#m
-I'll never let you go if you promise not to
-A    E           A    D#
-Fade away, never fade away
-G#m D#              E     B
-Our hopes and expecta----tions
-G#m   D#             E     B
-Black holes and revela----tions
-G#m D#              E     B
-Our hopes and expecta----tions
-G#m   D#             E     F#7
-Black holes and revela----tions
 
-B (on Bass)
-
-[Pre-Chorus]
-B    C#m    G#m     E
+G    Am     Em       C
 Hold you in my arms, I just wanted to
-B    C#m    G#m     E
+G    Am     Em     C
 Hold you in my arms
 
+
 [Verse]
-B
+
+G
+My life
+Am            Em
+You electrify my life
+C                    G
+Let's conspire to ig-nite
+Am                       Em             C
+All the souls that would die just to feel alive
+
+
+[Bridge]
+
+Am   D              B          Em
+I'll never let you go if you promise not to
+F    C           F     B
+Fade away, never fade away
+
+Em  B               C     G
+Our hopes and expecta----tions
+Em    B             C     G
+Black holes and revela----tions
+Em  B               C     G
+Our hopes and expecta----tions
+Em    B             C     D
+Black holes and revela----tions
+
+
+[Chorus]
+
+
+G on Bass
+
+G    Am      Em     C
+Hold you in my arms, I just wanted to
+G    Am      Em     C
+Hold you in my arms
+
+
+[Verse]
+
+G
 Far Away
-C#m                    G#m
+Am                     Em
 This ship is taking me far away
-E
+C
 Far away from the
-B
+G
 Memories
-C#m                   G#m               E
+Am                     Em               C
 Of all the people who care if I live or die
 
-[Chorus]
-C#m  F#            D#        G#m
+
+[Bridge]
+
+Am   D              B          Em
 I'll never let you go if you promise not to
-A    E           A    D#
+F    C           F     B
 Fade away, never fade away
-G#m D#              E     B
+
+Em  B               C     G
 Our hopes and expecta----tions
-G#m   D#             E     B
+Em    B             C     G
 Black holes and revela----tions (yeah)
-G#m D#              E     B
+Em  b               C     G
 Our hopes and expecta----tions
-G#m   D#              E     F#7
+Em    B             C     D
 Black holes and revela----tions
 
-[Outro]
-B    C#m    G#m     E
+
+[Chorus]
+
+G    Am      Em      C
 Hold you in my arms, I just wanted to
-B    C#m    G#m     E                 N.C
+G    Am      Em      C               (no chord)
 Hold you in my arms, I just wanted to hooold
+```
