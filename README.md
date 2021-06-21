@@ -134,113 +134,90 @@ I can be your hero.
 
 ## Perfect
 ```
-Capo: 1st fret
-Play: G
-Key: Ab
-
-For chords in original key transpose this chord sheet +1 (and "use flats").
-
-Play this song with the regular shapes of the chords given in this song
-or use the ones that can be heard on the recording:
-
-      E-A-D-G-B-e
-G     3-x-0-0-3(3)
-Em    0-2-2-0-3(3) (= Em7)
-C     x-3-2-0-3(3) (= Cadd9)
-[Coda]
-Dsus4 x-x-0-2-3-3 or x-x-0-0-3-3 (= a D chord which is neither major nor minor)
-G/B   x-2-0-0-0-3  (= G chord with a "b" as the root)
-D/F#  2-x-0-2-3-x  (= D chord with a "f#" as the root)
-
-The "%" signs mean "repeat the bar before", so "| D | % |" = two bars of D.
-It's a common abbreviation. (Real Book etc.: https://www.swiss-jazz.ch/standards-jazz/AllOfMe.pdf)
-
----------------------------------------------------------------------------------------------------
-
 [Intro]
-G#
+G
 
 [Verse 1]
-          G#        Fm
+          G        Em
 I found a love for me
-              C#                            D#
+              C                            D
 Darling, just dive right in, and follow my lead
-                G#          Fm
+                G          Em
 Well, I found a girl beautiful and sweet
-        C#                                     D#
+        C                                     D
 I never knew you were the someone waiting for me
 
 [Pre-Chorus]
-                                G#
+                                G
 Cause we were just kids when we fell in love
-            Fm                      C#                G#  D#
+            Em                      C                G  D
 Not knowing what it was, I will not give you up this ti-ime
-             G#                           Fm
+             G                           Em
 Darling just kiss me slow, your heart is all I own
-            C#                     D#
+            C                     D
 And in your eyes you're holding mine
 
 [Chorus]
-      Fm   C#             G#          D#              Fm
+      Em   C             G          D              Em
 Baby, I'm dancing in the dark, with you between my arms
-C#                G#     D#                Fm
+C                G     D                Em
 Barefoot on the grass, listening to our favourite song
-          C#                G#                 D#              Fm
+          C                G                 D              F
 When you said you looked a mess, I whispered underneath my breath
-         C#                G#        D#             G#
+         C                G        D             G
 But you heard it, darling you look perfect tonight
 
-| G# D#/G Fm D# | C#  D#  |
+| G D/G Em D | C  D  |
 
 [Verse 2]
-                G#                    Fm
+                G                    Em
 Well, I found a woman, stronger than anyone I know
-              C#                                          D#
+              C                                          D
 She shares my dreams, I hope that someday I'll share her home
-           G#             Fm
+           G             Em
 I found a love, to carry more than just my secrets
-         C#                              D#
+         C                              D
 To carry love, to carry children of our own
 
 [Pre-Chorus]
-                             G#                     Fm
+                             G                     Em
 We are still kids, but we're so in love, fighting against all odds
-             C#               G#  D#
+             C               G  D
 I know we'll be alright this ti-ime
-             G#                              Fm
+             G                              Em
 Darling just hold my hand, be my girl, I'll be your man
-         C#               D#
+         C               D
 I see my future in your eyes
 
 [Chorus]
-      Fm   C#              G#         D#              Fm
+      Em   C              G         D              Em
 Baby, I'm dancing in the dark, with you between my arms
-C#                G#     D#                Fm
+C                G     D                Em
 Barefoot on the grass, listening to our favourite song
-        C#                G#                D#
+        C                G                D
 When I saw you in that dress, looking so beautiful
-  Fm       C#                  G#        D#          [ G# ]
+  Em       C                  G        D          [ G ]
 I don't deserve this, darling you look perfect tonight
 
 [Interlude]
-| G#  | % | Fm | % |
-| C#  | % | D#  | % |
+| G  | % | Em | % |
+| C  | % | D  | % |
 
 [Chorus]
-      Fm   C#              G#         D#              Fm
+      Em   C              G         D              Em
 Baby, I'm dancing in the dark, with you between my arms
-C#                G#     D#                Fm
+C                G     D                Em
 Barefoot on the grass, listening to our favourite song
-        C#              G#               D#             Fm
+        C              G               D             Em
 I have faith in what I see, now I know I have met an angel
-    C#          G#         D#
+    C          G         D
 In person, and she looks perfect
 
 [Outro]
-  G#/C     C#           D#sus4    D#        [ G# ]
+  G/B     C           Dsus4    D        [ G ]
 I don't deserve this, you look perfect tonight
 
-| G# D#/G Fm D# | C#  D#  | G#
+| G D/F Em D | C  D  | G
 ```
 
 
