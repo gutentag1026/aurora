@@ -1,4 +1,4 @@
-## Hero
+## Hero ---> 2 semitones down F
 ```
 [Verse 1]
 
@@ -132,7 +132,7 @@ I can be your hero.
 ***********************************
 ```
 
-## Perfect
+## Perfect ---> 1 semitones down G
 ```
 [Intro]
 G
@@ -220,7 +220,7 @@ I don't deserve this, you look perfect tonight
 | G D/F# Em D | C  D  | G
 ```
 
-
+## Yellow ---> 2 semitones down F
 
 ## 21 Guns ---> 1 semitones down A
 ```
