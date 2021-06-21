@@ -167,7 +167,7 @@ When you said you looked a mess, I whispered underneath my breath
          C                G        D             G
 But you heard it, darling you look perfect tonight
 
-| G D/G Em D | C  D  |
+| G D/F# Em D | C  D  |
 
 [Verse 2]
                 G                    Em
@@ -180,7 +180,7 @@ I found a love, to carry more than just my secrets
 To carry love, to carry children of our own
 
 [Pre-Chorus]
-                             G                     Em
+                             G                    Em
 We are still kids, but we're so in love, fighting against all odds
              C               G  D
 I know we'll be alright this ti-ime
@@ -217,7 +217,7 @@ In person, and she looks perfect
   G/B     C           Dsus4    D        [ G ]
 I don't deserve this, you look perfect tonight
 
-| G D/F Em D | C  D  | G
+| G D/F# Em D | C  D  | G
 ```
 
 
