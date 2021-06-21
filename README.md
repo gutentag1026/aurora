@@ -1,3 +1,250 @@
+## Hero
+```
+[Verse 1]
+
+          G
+Would you dance,
+                  Em
+If I asked you to dance?
+          C
+Would you run,
+               D
+And never look back?
+          G
+Would you cry,
+              Em
+If you saw me crying?
+          C       D      G
+Would you save my soul tonight?
+
+
+[Verse 2]
+
+          G
+Would you tremble
+                  Em
+If I touched your lips?
+          C
+Would you laugh,
+                  D
+Oh please tell me this.
+              G
+Now would you die,
+                Em
+For the one you love.
+        C       D      G
+Hold me in your arms tonight.
+
+
+[Chorus]
+
+G     D             C
+I can be your hero, baby.
+G     D             C
+I can kiss away the pain.
+G      D               C
+I will stand by you forever.
+G       D       C
+You can take my breath away.
+
+
+[Verse 3]
+
+          G
+Would you swear,
+                      Em
+That you'll always be mine?
+          C
+Would you lie,
+                   D
+Would you run and hide?
+            G
+Am I in too deep?
+               Em
+Have I lost my mind?
+        C            D      G
+I don't care, you're here tonight.
+
+
+[Chorus]
+
+G     D             C       G
+I can be your hero, baby.
+G     D             C       G
+I can kiss away the pain.
+G      D               C      G
+I will stand by you forever.
+G       D               C
+You can take my breath away.
+
+
+[Solo]
+
+e|-----------------------------------------------------|
+B|--------------------7-----7-8-7----------------------|
+G|----------------7-7---7--7------7------------------7-|
+D|-5-5-5-7s9-9----5--------7--------7s9-7----9s5-5-7---|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+
+[Verse 5]
+
+---------------------------{I hear intro, you can play that or verse tab}
+Oh, I just want to hold you
+---------------------------{I hear intro, you can play that or verse tab}
+I just want to hold you
+                     G
+Oh yeah, Am I in too deep?
+               Em
+Have I lost my mind?
+             C            D      G
+Well I don't care, you're here tonight.
+
+
+[Ending Chorus]
+
+G     D             C
+I can be your hero, baby.
+G     D             C
+I can kiss away the pain. (Oh yeah!)
+G      D               C
+I will stand by you forever.
+G       D               C
+You can take my breath away.
+G     D             C
+I can be your hero, baby.
+G     D             C
+I can kiss away the pain.
+G      D               C
+I will stand by you forever.
+G       D               C
+You can take my breath away.
+G       D               C
+You can take my breath away.
+G     D       C
+I can be your hero.
+
+
+***********************************
+| s    Slide
+|(x)   Ghost note
+***********************************
+```
+
+## Perfect
+```
+Capo: 1st fret
+Play: G
+Key: Ab
+
+For chords in original key transpose this chord sheet +1 (and "use flats").
+
+Play this song with the regular shapes of the chords given in this song
+or use the ones that can be heard on the recording:
+
+      E-A-D-G-B-e
+G     3-x-0-0-3(3)
+Em    0-2-2-0-3(3) (= Em7)
+C     x-3-2-0-3(3) (= Cadd9)
+[Coda]
+Dsus4 x-x-0-2-3-3 or x-x-0-0-3-3 (= a D chord which is neither major nor minor)
+G/B   x-2-0-0-0-3  (= G chord with a "b" as the root)
+D/F#  2-x-0-2-3-x  (= D chord with a "f#" as the root)
+
+The "%" signs mean "repeat the bar before", so "| D | % |" = two bars of D.
+It's a common abbreviation. (Real Book etc.: https://www.swiss-jazz.ch/standards-jazz/AllOfMe.pdf)
+
+---------------------------------------------------------------------------------------------------
+
+[Intro]
+G#
+
+[Verse 1]
+          G#        Fm
+I found a love for me
+              C#                            D#
+Darling, just dive right in, and follow my lead
+                G#          Fm
+Well, I found a girl beautiful and sweet
+        C#                                     D#
+I never knew you were the someone waiting for me
+
+[Pre-Chorus]
+                                G#
+Cause we were just kids when we fell in love
+            Fm                      C#                G#  D#
+Not knowing what it was, I will not give you up this ti-ime
+             G#                           Fm
+Darling just kiss me slow, your heart is all I own
+            C#                     D#
+And in your eyes you're holding mine
+
+[Chorus]
+      Fm   C#             G#          D#              Fm
+Baby, I'm dancing in the dark, with you between my arms
+C#                G#     D#                Fm
+Barefoot on the grass, listening to our favourite song
+          C#                G#                 D#              Fm
+When you said you looked a mess, I whispered underneath my breath
+         C#                G#        D#             G#
+But you heard it, darling you look perfect tonight
+
+| G# D#/G Fm D# | C#  D#  |
+
+[Verse 2]
+                G#                    Fm
+Well, I found a woman, stronger than anyone I know
+              C#                                          D#
+She shares my dreams, I hope that someday I'll share her home
+           G#             Fm
+I found a love, to carry more than just my secrets
+         C#                              D#
+To carry love, to carry children of our own
+
+[Pre-Chorus]
+                             G#                     Fm
+We are still kids, but we're so in love, fighting against all odds
+             C#               G#  D#
+I know we'll be alright this ti-ime
+             G#                              Fm
+Darling just hold my hand, be my girl, I'll be your man
+         C#               D#
+I see my future in your eyes
+
+[Chorus]
+      Fm   C#              G#         D#              Fm
+Baby, I'm dancing in the dark, with you between my arms
+C#                G#     D#                Fm
+Barefoot on the grass, listening to our favourite song
+        C#                G#                D#
+When I saw you in that dress, looking so beautiful
+  Fm       C#                  G#        D#          [ G# ]
+I don't deserve this, darling you look perfect tonight
+
+[Interlude]
+| G#  | % | Fm | % |
+| C#  | % | D#  | % |
+
+[Chorus]
+      Fm   C#              G#         D#              Fm
+Baby, I'm dancing in the dark, with you between my arms
+C#                G#     D#                Fm
+Barefoot on the grass, listening to our favourite song
+        C#              G#               D#             Fm
+I have faith in what I see, now I know I have met an angel
+    C#          G#         D#
+In person, and she looks perfect
+
+[Outro]
+  G#/C     C#           D#sus4    D#        [ G# ]
+I don't deserve this, you look perfect tonight
+
+| G# D#/G Fm D# | C#  D#  | G#
+```
+
+
+
 ## 21 Guns ---> 1 semitones down A
 ```
 [Intro]
